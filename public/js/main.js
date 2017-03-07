@@ -88,3 +88,4 @@ $(document).ready(function ()
     $("#panelCrear").hide();
   });
 });
+//Chevere la paginación

@@ -28,3 +28,4 @@ CrimeTypeSelector.propTypes = {
 };
 
 export default CrimeTypeSelector;
+//Ordenado, cort, concreto. Bueno especificar los tipos de los atributos props

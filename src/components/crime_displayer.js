@@ -138,4 +138,6 @@ class CrimeDisplayer extends Component {
   }
           }
 
-          export default CrimeDisplayer;
+          export default CrimeDisplayer; //ojo la indentacion
+
+//en general ordenado y bien hecho

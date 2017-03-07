@@ -38,6 +38,7 @@ function initMap()
         }
     }
 }
+//Chevere el uso del google maps API
 // function initMap() {
 //     map = new google.maps.Map(document.getElementById('map'), {
 //         center: { lat: 20, lng: -160 },

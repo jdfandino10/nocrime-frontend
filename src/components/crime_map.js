@@ -93,3 +93,4 @@ class CrimeMap extends Component {
 }
 
 export default CrimeMap;
+//Bien, ordenada la separacion dela clase y el listener del map

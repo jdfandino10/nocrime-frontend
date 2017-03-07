@@ -30,3 +30,4 @@ ReportedSelector.propTypes = {
 };
 
 export default ReportedSelector;
+//Ordenado, cort, concreto. Bueno especificar los tipos de los atributos props

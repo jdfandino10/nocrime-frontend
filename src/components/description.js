@@ -25,3 +25,4 @@ Description.propTypes = {
 };
 
 export default Description;
+//Ordenado, cort, concreto. Bueno especificar los tipos de los atributos props
